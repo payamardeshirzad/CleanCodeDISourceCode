@@ -1,0 +1,6 @@
+c:\users\илья\documents\visual studio 2017\Projects\DI-Example\StudentsManager.Models\bin\Debug\StudentsManager.Models.dll
+c:\users\илья\documents\visual studio 2017\Projects\DI-Example\StudentsManager.Models\bin\Debug\StudentsManager.Models.pdb
+c:\users\илья\documents\visual studio 2017\Projects\DI-Example\StudentsManager.Models\obj\Debug\StudentsManager.Models.csproj.CoreCompileInputs.cache
+c:\users\илья\documents\visual studio 2017\Projects\DI-Example\StudentsManager.Models\obj\Debug\StudentsManager.Models.dll
+c:\users\илья\documents\visual studio 2017\Projects\DI-Example\StudentsManager.Models\obj\Debug\StudentsManager.Models.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Models\obj\Debug\StudentsManager.Models.csprojResolveAssemblyReference.cache

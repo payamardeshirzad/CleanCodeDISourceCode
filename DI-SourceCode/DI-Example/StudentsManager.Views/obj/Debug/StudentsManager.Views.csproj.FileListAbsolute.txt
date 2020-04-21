@@ -1,0 +1,16 @@
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\obj\Debug\StudentsManager.Views.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\bin\Debug\StudentsManager.Views.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\bin\Debug\StudentsManager.Views.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\bin\Debug\StudentsManager.Models.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\bin\Debug\StudentsManager.ViewModels.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\bin\Debug\StudentsManager.DataAccess.Interface.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\bin\Debug\StudentsManager.Models.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\bin\Debug\StudentsManager.ViewModels.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\bin\Debug\StudentsManager.DataAccess.Interface.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\obj\Debug\MainView.baml
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\obj\Debug\MainView.g.cs
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\obj\Debug\StudentsManager.Views_MarkupCompile.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\obj\Debug\StudentsManager.Views.g.resources
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\obj\Debug\StudentsManager.Views.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\obj\Debug\StudentsManager.Views.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.Views\obj\Debug\StudentsManager.Views.pdb

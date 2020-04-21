@@ -1,0 +1,10 @@
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.CSV\bin\BostonHighSchool\StudentsManager.CSV.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.CSV\bin\BostonHighSchool\StudentsManager.CSV.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.CSV\bin\BostonHighSchool\StudentsManager.DataAccess.Interface.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.CSV\bin\BostonHighSchool\StudentsManager.Models.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.CSV\bin\BostonHighSchool\StudentsManager.DataAccess.Interface.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.CSV\bin\BostonHighSchool\StudentsManager.Models.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.CSV\obj\BostonHighSchool\StudentsManager.CSV.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.CSV\obj\BostonHighSchool\StudentsManager.CSV.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.CSV\obj\BostonHighSchool\StudentsManager.CSV.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.CSV\obj\BostonHighSchool\StudentsManager.CSV.pdb

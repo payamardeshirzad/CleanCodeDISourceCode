@@ -1,0 +1,10 @@
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.DataAccess\bin\BostonHighSchool\StudentsManager.DataAccess.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.DataAccess\bin\BostonHighSchool\StudentsManager.DataAccess.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.DataAccess\bin\BostonHighSchool\StudentsManager.DataAccess.Interface.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.DataAccess\bin\BostonHighSchool\StudentsManager.Models.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.DataAccess\bin\BostonHighSchool\StudentsManager.DataAccess.Interface.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.DataAccess\bin\BostonHighSchool\StudentsManager.Models.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.DataAccess\obj\BostonHighSchool\StudentsManager.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.DataAccess\obj\BostonHighSchool\StudentsManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.DataAccess\obj\BostonHighSchool\StudentsManager.DataAccess.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.DataAccess\obj\BostonHighSchool\StudentsManager.DataAccess.pdb

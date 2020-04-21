@@ -1,0 +1,10 @@
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.ViewModels\bin\BostonHighSchool\StudentsManager.ViewModels.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.ViewModels\bin\BostonHighSchool\StudentsManager.ViewModels.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.ViewModels\bin\BostonHighSchool\StudentsManager.DataAccess.Interface.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.ViewModels\bin\BostonHighSchool\StudentsManager.Models.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.ViewModels\bin\BostonHighSchool\StudentsManager.DataAccess.Interface.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.ViewModels\bin\BostonHighSchool\StudentsManager.Models.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.ViewModels\obj\BostonHighSchool\StudentsManager.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.ViewModels\obj\BostonHighSchool\StudentsManager.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.ViewModels\obj\BostonHighSchool\StudentsManager.ViewModels.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\DI-Example\StudentsManager.ViewModels\obj\BostonHighSchool\StudentsManager.ViewModels.pdb
